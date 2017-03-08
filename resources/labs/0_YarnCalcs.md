@@ -1,0 +1,5 @@
+-reviewed the worksheet, can play with the numbers and see how it changes parameters
+-I prefer the public/cloudera one for Yarn as there is more detail, more checks, use to it I guess, etc
+-Workload factor is a indicator of load, could also consider as more io intensive vs cpu intensive
+-Increase memory.map, made memory.reduce double of map, changed related settings
+-this is very theoretical, thumb suck. But in reality would try to get a feel of type of workload and ajust accordingly, monitor solution and adjusted as needed 
