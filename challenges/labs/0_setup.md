@@ -72,7 +72,7 @@ merengues:x:501:
 barca:x:500:
 
 
-[root@ip-172-31-18-189 ~]# grep '2010' /etc/passwd
-naymar:x:2010:501::/home/naymar:/bin/bash
+[root@ip-172-31-29-188 ~]# grep '2010' /etc/passwd
+neymar:x:2010:501::/home/neymar:/bin/bash
 [root@ip-172-31-18-189 ~]# grep '2016' /etc/passwd
 ronaldo:x:2016:500::/home/ronaldo:/bin/bash
